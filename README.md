@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/skyy4/LeetCode_1/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/skyy4/LeetCode_1/tree/master/0242-valid-anagram) |
 | [1970-sorting-the-sentence](https://github.com/skyy4/LeetCode_1/tree/master/1970-sorting-the-sentence) |
 ## Math
@@ -47,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/skyy4/LeetCode_1/tree/master/0037-sudoku-solver) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/skyy4/LeetCode_1/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
