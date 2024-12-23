@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/skyy4/LeetCode_1/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/skyy4/LeetCode_1/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/skyy4/LeetCode_1/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0037-sudoku-solver](https://github.com/skyy4/LeetCode_1/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/skyy4/LeetCode_1/tree/master/0051-n-queens) |
 ## Binary Search
 |  |
@@ -35,9 +36,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/skyy4/LeetCode_1/tree/master/0037-sudoku-solver) |
 | [0242-valid-anagram](https://github.com/skyy4/LeetCode_1/tree/master/0242-valid-anagram) |
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/skyy4/LeetCode_1/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/skyy4/LeetCode_1/tree/master/0051-n-queens) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/skyy4/LeetCode_1/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
