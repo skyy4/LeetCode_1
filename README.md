@@ -20,4 +20,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/skyy4/LeetCode_1/tree/master/0018-4sum) |
+| [1970-sorting-the-sentence](https://github.com/skyy4/LeetCode_1/tree/master/1970-sorting-the-sentence) |
+## String
+|  |
+| ------- |
+| [1970-sorting-the-sentence](https://github.com/skyy4/LeetCode_1/tree/master/1970-sorting-the-sentence) |
 <!---LeetCode Topics End-->
