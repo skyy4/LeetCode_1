@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/skyy4/LeetCode_1/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/skyy4/LeetCode_1/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/skyy4/LeetCode_1/tree/master/0051-n-queens) |
+| [0120-triangle](https://github.com/skyy4/LeetCode_1/tree/master/0120-triangle) |
 ## Binary Search
 |  |
 | ------- |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/skyy4/LeetCode_1/tree/master/0062-unique-paths) |
+| [0120-triangle](https://github.com/skyy4/LeetCode_1/tree/master/0120-triangle) |
 ## Combinatorics
 |  |
 | ------- |
