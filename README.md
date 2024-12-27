@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/skyy4/LeetCode_1/tree/master/0051-n-queens) |
 | [0120-triangle](https://github.com/skyy4/LeetCode_1/tree/master/0120-triangle) |
 | [0136-single-number](https://github.com/skyy4/LeetCode_1/tree/master/0136-single-number) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/skyy4/LeetCode_1/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/skyy4/LeetCode_1/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/skyy4/LeetCode_1/tree/master/0273-integer-to-english-words) |
 | [1970-sorting-the-sentence](https://github.com/skyy4/LeetCode_1/tree/master/1970-sorting-the-sentence) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/skyy4/LeetCode_1/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## Math
 |  |
 | ------- |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/skyy4/LeetCode_1/tree/master/0037-sudoku-solver) |
 | [0242-valid-anagram](https://github.com/skyy4/LeetCode_1/tree/master/0242-valid-anagram) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/skyy4/LeetCode_1/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## Backtracking
 |  |
 | ------- |
@@ -128,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/skyy4/LeetCode_1/tree/master/0136-single-number) |
+## Simulation
+|  |
+| ------- |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/skyy4/LeetCode_1/tree/master/2847-find-maximum-number-of-string-pairs) |
 <!---LeetCode Topics End-->
