@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/skyy4/LeetCode_1/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/skyy4/LeetCode_1/tree/master/0051-n-queens) |
 | [0120-triangle](https://github.com/skyy4/LeetCode_1/tree/master/0120-triangle) |
+| [0136-single-number](https://github.com/skyy4/LeetCode_1/tree/master/0136-single-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -123,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/skyy4/LeetCode_1/tree/master/0042-trapping-rain-water) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/skyy4/LeetCode_1/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
