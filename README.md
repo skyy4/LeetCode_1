@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/skyy4/LeetCode_1/tree/master/0051-n-queens) |
 | [0120-triangle](https://github.com/skyy4/LeetCode_1/tree/master/0120-triangle) |
 | [0136-single-number](https://github.com/skyy4/LeetCode_1/tree/master/0136-single-number) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/skyy4/LeetCode_1/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0822-unique-morse-code-words](https://github.com/skyy4/LeetCode_1/tree/master/0822-unique-morse-code-words) |
 | [0965-unique-email-addresses](https://github.com/skyy4/LeetCode_1/tree/master/0965-unique-email-addresses) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/skyy4/LeetCode_1/tree/master/2847-find-maximum-number-of-string-pairs) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/skyy4/LeetCode_1/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/skyy4/LeetCode_1/tree/master/0062-unique-paths) |
 | [0120-triangle](https://github.com/skyy4/LeetCode_1/tree/master/0120-triangle) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/skyy4/LeetCode_1/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 ## Combinatorics
 |  |
 | ------- |
