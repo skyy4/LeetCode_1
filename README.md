@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0822-unique-morse-code-words](https://github.com/skyy4/LeetCode_1/tree/master/0822-unique-morse-code-words) |
 | [0965-unique-email-addresses](https://github.com/skyy4/LeetCode_1/tree/master/0965-unique-email-addresses) |
 | [1970-sorting-the-sentence](https://github.com/skyy4/LeetCode_1/tree/master/1970-sorting-the-sentence) |
+| [2365-percentage-of-letter-in-string](https://github.com/skyy4/LeetCode_1/tree/master/2365-percentage-of-letter-in-string) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/skyy4/LeetCode_1/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## Math
 |  |
