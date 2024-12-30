@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/skyy4/LeetCode_1/tree/master/0051-n-queens) |
 | [0120-triangle](https://github.com/skyy4/LeetCode_1/tree/master/0120-triangle) |
 | [0136-single-number](https://github.com/skyy4/LeetCode_1/tree/master/0136-single-number) |
+| [0229-majority-element-ii](https://github.com/skyy4/LeetCode_1/tree/master/0229-majority-element-ii) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/skyy4/LeetCode_1/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0822-unique-morse-code-words](https://github.com/skyy4/LeetCode_1/tree/master/0822-unique-morse-code-words) |
 | [0965-unique-email-addresses](https://github.com/skyy4/LeetCode_1/tree/master/0965-unique-email-addresses) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/skyy4/LeetCode_1/tree/master/0018-4sum) |
+| [0229-majority-element-ii](https://github.com/skyy4/LeetCode_1/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/skyy4/LeetCode_1/tree/master/0242-valid-anagram) |
 | [1970-sorting-the-sentence](https://github.com/skyy4/LeetCode_1/tree/master/1970-sorting-the-sentence) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/skyy4/LeetCode_1/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/skyy4/LeetCode_1/tree/master/0037-sudoku-solver) |
+| [0229-majority-element-ii](https://github.com/skyy4/LeetCode_1/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/skyy4/LeetCode_1/tree/master/0242-valid-anagram) |
 | [0822-unique-morse-code-words](https://github.com/skyy4/LeetCode_1/tree/master/0822-unique-morse-code-words) |
 | [0965-unique-email-addresses](https://github.com/skyy4/LeetCode_1/tree/master/0965-unique-email-addresses) |
@@ -153,4 +156,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/skyy4/LeetCode_1/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/skyy4/LeetCode_1/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
