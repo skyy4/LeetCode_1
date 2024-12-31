@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/skyy4/LeetCode_1/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/skyy4/LeetCode_1/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/skyy4/LeetCode_1/tree/master/0051-n-queens) |
+| [0059-spiral-matrix-ii](https://github.com/skyy4/LeetCode_1/tree/master/0059-spiral-matrix-ii) |
 | [0120-triangle](https://github.com/skyy4/LeetCode_1/tree/master/0120-triangle) |
 | [0136-single-number](https://github.com/skyy4/LeetCode_1/tree/master/0136-single-number) |
 | [0229-majority-element-ii](https://github.com/skyy4/LeetCode_1/tree/master/0229-majority-element-ii) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/skyy4/LeetCode_1/tree/master/0037-sudoku-solver) |
+| [0059-spiral-matrix-ii](https://github.com/skyy4/LeetCode_1/tree/master/0059-spiral-matrix-ii) |
 ## Stack
 |  |
 | ------- |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/skyy4/LeetCode_1/tree/master/0059-spiral-matrix-ii) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/skyy4/LeetCode_1/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## String Matching
 |  |
