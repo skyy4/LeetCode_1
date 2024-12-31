@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/skyy4/LeetCode_1/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/skyy4/LeetCode_1/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/skyy4/LeetCode_1/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/skyy4/LeetCode_1/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/skyy4/LeetCode_1/tree/master/0051-n-queens) |
 | [0059-spiral-matrix-ii](https://github.com/skyy4/LeetCode_1/tree/master/0059-spiral-matrix-ii) |
 | [0120-triangle](https://github.com/skyy4/LeetCode_1/tree/master/0120-triangle) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/skyy4/LeetCode_1/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/skyy4/LeetCode_1/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/skyy4/LeetCode_1/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/skyy4/LeetCode_1/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/skyy4/LeetCode_1/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/skyy4/LeetCode_1/tree/master/0069-sqrtx) |
 | [0273-integer-to-english-words](https://github.com/skyy4/LeetCode_1/tree/master/0273-integer-to-english-words) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/skyy4/LeetCode_1/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/skyy4/LeetCode_1/tree/master/0048-rotate-image) |
 | [0059-spiral-matrix-ii](https://github.com/skyy4/LeetCode_1/tree/master/0059-spiral-matrix-ii) |
 ## Stack
 |  |
