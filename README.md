@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/skyy4/LeetCode_1/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/skyy4/LeetCode_1/tree/master/0051-n-queens) |
 | [0059-spiral-matrix-ii](https://github.com/skyy4/LeetCode_1/tree/master/0059-spiral-matrix-ii) |
+| [0078-subsets](https://github.com/skyy4/LeetCode_1/tree/master/0078-subsets) |
 | [0120-triangle](https://github.com/skyy4/LeetCode_1/tree/master/0120-triangle) |
 | [0136-single-number](https://github.com/skyy4/LeetCode_1/tree/master/0136-single-number) |
 | [0229-majority-element-ii](https://github.com/skyy4/LeetCode_1/tree/master/0229-majority-element-ii) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/skyy4/LeetCode_1/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/skyy4/LeetCode_1/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/skyy4/LeetCode_1/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/skyy4/LeetCode_1/tree/master/0078-subsets) |
 ## Matrix
 |  |
 | ------- |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/skyy4/LeetCode_1/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/skyy4/LeetCode_1/tree/master/0136-single-number) |
 ## Simulation
 |  |
