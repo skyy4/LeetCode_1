@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/skyy4/LeetCode_1/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/skyy4/LeetCode_1/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/skyy4/LeetCode_1/tree/master/0058-length-of-last-word) |
+| [0131-palindrome-partitioning](https://github.com/skyy4/LeetCode_1/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/skyy4/LeetCode_1/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/skyy4/LeetCode_1/tree/master/0273-integer-to-english-words) |
 | [0822-unique-morse-code-words](https://github.com/skyy4/LeetCode_1/tree/master/0822-unique-morse-code-words) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0052-n-queens-ii](https://github.com/skyy4/LeetCode_1/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/skyy4/LeetCode_1/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/skyy4/LeetCode_1/tree/master/0078-subsets) |
+| [0131-palindrome-partitioning](https://github.com/skyy4/LeetCode_1/tree/master/0131-palindrome-partitioning) |
 ## Matrix
 |  |
 | ------- |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/skyy4/LeetCode_1/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/skyy4/LeetCode_1/tree/master/0062-unique-paths) |
 | [0120-triangle](https://github.com/skyy4/LeetCode_1/tree/master/0120-triangle) |
+| [0131-palindrome-partitioning](https://github.com/skyy4/LeetCode_1/tree/master/0131-palindrome-partitioning) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/skyy4/LeetCode_1/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 ## Combinatorics
 |  |
