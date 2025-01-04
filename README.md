@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/skyy4/LeetCode_1/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/skyy4/LeetCode_1/tree/master/0051-n-queens) |
 | [0059-spiral-matrix-ii](https://github.com/skyy4/LeetCode_1/tree/master/0059-spiral-matrix-ii) |
+| [0075-sort-colors](https://github.com/skyy4/LeetCode_1/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/skyy4/LeetCode_1/tree/master/0078-subsets) |
 | [0120-triangle](https://github.com/skyy4/LeetCode_1/tree/master/0120-triangle) |
 | [0136-single-number](https://github.com/skyy4/LeetCode_1/tree/master/0136-single-number) |
@@ -35,11 +36,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/skyy4/LeetCode_1/tree/master/0018-4sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/skyy4/LeetCode_1/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/skyy4/LeetCode_1/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/skyy4/LeetCode_1/tree/master/0075-sort-colors) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/skyy4/LeetCode_1/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Sorting
 |  |
 | ------- |
 | [0018-4sum](https://github.com/skyy4/LeetCode_1/tree/master/0018-4sum) |
+| [0075-sort-colors](https://github.com/skyy4/LeetCode_1/tree/master/0075-sort-colors) |
 | [0229-majority-element-ii](https://github.com/skyy4/LeetCode_1/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/skyy4/LeetCode_1/tree/master/0242-valid-anagram) |
 | [1970-sorting-the-sentence](https://github.com/skyy4/LeetCode_1/tree/master/1970-sorting-the-sentence) |
