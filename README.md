@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/skyy4/LeetCode_1/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/skyy4/LeetCode_1/tree/master/0042-trapping-rain-water) |
+| [0173-binary-search-tree-iterator](https://github.com/skyy4/LeetCode_1/tree/master/0173-binary-search-tree-iterator) |
 ## Linked List
 |  |
 | ------- |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/skyy4/LeetCode_1/tree/master/0112-path-sum) |
+| [0173-binary-search-tree-iterator](https://github.com/skyy4/LeetCode_1/tree/master/0173-binary-search-tree-iterator) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/skyy4/LeetCode_1/tree/master/0112-path-sum) |
+| [0173-binary-search-tree-iterator](https://github.com/skyy4/LeetCode_1/tree/master/0173-binary-search-tree-iterator) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -181,4 +184,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/skyy4/LeetCode_1/tree/master/0229-majority-element-ii) |
+## Design
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/skyy4/LeetCode_1/tree/master/0173-binary-search-tree-iterator) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/skyy4/LeetCode_1/tree/master/0173-binary-search-tree-iterator) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/skyy4/LeetCode_1/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
