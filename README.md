@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/skyy4/LeetCode_1/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/skyy4/LeetCode_1/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/skyy4/LeetCode_1/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/skyy4/LeetCode_1/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/skyy4/LeetCode_1/tree/master/0051-n-queens) |
 | [0059-spiral-matrix-ii](https://github.com/skyy4/LeetCode_1/tree/master/0059-spiral-matrix-ii) |
 | [0075-sort-colors](https://github.com/skyy4/LeetCode_1/tree/master/0075-sort-colors) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/skyy4/LeetCode_1/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/skyy4/LeetCode_1/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/skyy4/LeetCode_1/tree/master/0075-sort-colors) |
 | [0229-majority-element-ii](https://github.com/skyy4/LeetCode_1/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/skyy4/LeetCode_1/tree/master/0242-valid-anagram) |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/skyy4/LeetCode_1/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/skyy4/LeetCode_1/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/skyy4/LeetCode_1/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/skyy4/LeetCode_1/tree/master/0058-length-of-last-word) |
 | [0131-palindrome-partitioning](https://github.com/skyy4/LeetCode_1/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/skyy4/LeetCode_1/tree/master/0242-valid-anagram) |
@@ -78,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/skyy4/LeetCode_1/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/skyy4/LeetCode_1/tree/master/0037-sudoku-solver) |
+| [0049-group-anagrams](https://github.com/skyy4/LeetCode_1/tree/master/0049-group-anagrams) |
 | [0229-majority-element-ii](https://github.com/skyy4/LeetCode_1/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/skyy4/LeetCode_1/tree/master/0242-valid-anagram) |
 | [0822-unique-morse-code-words](https://github.com/skyy4/LeetCode_1/tree/master/0822-unique-morse-code-words) |
